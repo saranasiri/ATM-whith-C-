@@ -1,0 +1,20 @@
+C:\Users\LENOVO\source\repos\projeh payan term\bin\Debug\netcoreapp3.1\projeh payan term.exe
+C:\Users\LENOVO\source\repos\projeh payan term\bin\Debug\netcoreapp3.1\projeh payan term.deps.json
+C:\Users\LENOVO\source\repos\projeh payan term\bin\Debug\netcoreapp3.1\projeh payan term.runtimeconfig.json
+C:\Users\LENOVO\source\repos\projeh payan term\bin\Debug\netcoreapp3.1\projeh payan term.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\projeh payan term\bin\Debug\netcoreapp3.1\projeh payan term.dll
+C:\Users\LENOVO\source\repos\projeh payan term\bin\Debug\netcoreapp3.1\projeh payan term.pdb
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh_payan_term.Form1.resources
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.dll
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.pdb
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh payan term.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh_payan_term.Form2.resources
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh_payan_term.Form3.resources
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh_payan_term.Form4.resources
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh_payan_term.Form5.resources
+C:\Users\LENOVO\source\repos\projeh payan term\obj\Debug\netcoreapp3.1\projeh_payan_term.Form6.resources
